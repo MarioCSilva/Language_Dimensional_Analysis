@@ -5,4 +5,4 @@
  - **[Mário Silva](https://github.com/MarioCSilva)**
  - **[Leandro Silva](https://github.com/leand12)**
  - **[Bruno Bastos](https://github.com/BrunosBastos)**
- - **Rui Silva**
+ - **Rui Fernandes**
